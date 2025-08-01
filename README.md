@@ -3,7 +3,7 @@
 
 
 ## Course Modules
-- [Introduction and Setup]
+- [Introduction and Setup](Introduction-and-Setup/README.md)
 - [Deploying Applications]
 - [Services and Networking]
 - [Ingress and Load Balancing]
