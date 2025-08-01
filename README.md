@@ -4,7 +4,7 @@
 
 ## Course Modules
 - [Introduction and Setup](Introduction-and-Setup/README.md)
-- [Deploying Applications]
+- [Deploying Applications](Deploying-Applications/README.md)
 - [Services and Networking]
 - [Ingress and Load Balancing]
 - [Persistent Storage]
