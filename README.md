@@ -2,7 +2,7 @@
 - [Link to FREE Course](https://community.kubeskills.com/c/getting-started-with-kind-kubernetes)
 
 
-## Course Structure
+## Course Modules
 - [Introduction and Setup]
 - [Deploying Applications]
 - [Services and Networking]
